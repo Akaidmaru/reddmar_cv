@@ -4,7 +4,7 @@
 }
 
 header {
-    background: "/cv/img/bg-programming.jpg";
+    background: "../img/bg-programming.jpg";
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
