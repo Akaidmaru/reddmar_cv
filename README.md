@@ -1,4 +1,4 @@
-# Reddmar Curriculum CV
+# Reddmar CV
 
 ## Table of Contents
 
