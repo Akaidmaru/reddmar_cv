@@ -1,0 +1,61 @@
+/* Global selector */
+* {
+    margin: 0;
+}
+
+header {
+    background: url("/cv/img/bg-programming.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    padding: 20px;
+}
+
+.profile {
+    display: block;
+    margin: auto;
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px 3px rgba(0, 0, 0, 0.4);
+}
+
+section .main-title {
+    padding-bottom: 30px;
+    background-color: #252A34;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color: #08D9D6;
+    font-size: 35px;
+    padding: 14.13px 16px;
+    padding-bottom: 18px;
+    
+}
+
+body{
+    background-color: #eaeaea;
+}
+
+p{
+    padding: 50px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 1000;
+}
+
+footer {
+    background-color: #222831;
+    text-align: center;
+    padding: 11px;
+    font-size: 20px;
+}
+
+.footer-text {
+    color: #08D9D6;
+}
+
+footer i {
+    width: 15px;
+    height: 20px;
+    padding-left: 10px;
+    align-items: center;
+}
